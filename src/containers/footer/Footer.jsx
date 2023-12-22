@@ -6,7 +6,7 @@ const Footer = () => (
   <div className="gpt3__footer section__padding">
     <div className="gpt3__footer-heading">
       <h1 className="gradient__text">
-        Do you want to step in to the future before others
+        Dëshironi të hyni në të ardhmen përpara të tjerëve
       </h1>
     </div>
 
@@ -18,7 +18,7 @@ const Footer = () => (
       <div className="gpt3__footer-links_logo">
         <img src={gpt3Logo} alt="gpt3_logo" />
         <p>
-          Crechterwoord K12 182 DK Alknjkcb, <br /> All Rights Reserved
+          GV <br /> All Rights Reserved
         </p>
       </div>
       <div className="gpt3__footer-links_div">
@@ -43,7 +43,7 @@ const Footer = () => (
     </div>
 
     <div className="gpt3__footer-copyright">
-      <p>@2021 GPT-3. All rights reserved.</p>
+      <p>@2024 GPT-3. All rights reserved.</p>
     </div>
   </div>
 );

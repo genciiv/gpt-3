@@ -25,8 +25,8 @@ const Features = () => (
   <div className="gpt3__features section__padding" id="features">
     <div className="gpt3__features-heading">
       <h1 className="gradient__text">
-        The Future is Now and You Just Need to Realize It. Step into Future
-        Today. & Make it Happen.
+        E ardhmja është tani dhe ju vetëm duhet ta kuptoni atë. Hapi në të
+        Ardhmen Sot. & Bëje të ndodhë.
       </h1>
       <p>Request Early Access to Get Started</p>
     </div>
